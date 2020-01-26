@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "molten-album-264510",
+  "private_key_id": "6946f52b5b924d9dc53771ea22eada5709db3542",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDCF9ydrMkq+KUo\nqgDfkc8aDP0bcxTjp7h82pAZKaJ246oyVMxFtnQ73oth5rDTmmxBsk6J4GSX743N\nwNc/btMXDJpNn0qkbIMCswapR3Rh0LM0QQvCOtQXJTa2g7SLTXRs++iGnFx48o2O\nLhh1Od1eVWanzn+5fMbpxu2A8irb+A+9eXMuPln0a+Gi8oJWBgr4DsYdDbdyzYjr\nOpfprWCk+Dcy4vLCHo3Ps6KYP02wNWdaia7hIPWDY9pyhQtNBbCQzklIx6rOgRiz\n6LQpRxn2z6jqna1nBWDBZ+KKtlpRnPC1gLdkE4DogcjhC1ywX46VpzzH4PrhAeml\n0OdVLI73AgMBAAECggEAFh57XooMZZXvLH0t8EyWRNUUxdti7AwhyDNtlzsuxUxu\nCaJZooWH0DLXwOZ2DFyy2Ex7tYFvCqma3XHhQIdeuGe6m1H7QwBixcdP4QbASqLA\nFBpoPqWkT1GcX0cPJ45CJbwSOb+kAjHnfpEzlFht0+GjpfKwjPDysj2gtMCPBdZC\nWL2W6fvCdzYdFPk1CNyycCl6y0XQNe+QEEeCvXxxy4mctu1vnWhaodZj+6WUsnZx\nlSpYfDd+8kHAMFUhlbExN/mUbzwsF0Ji5OUR1TGtQxbmeki0FpUbcXZ481NlQSts\nQreg55ZjnpKfEkJ/AjPEY3L6TE5keq4NVxC3LA26gQKBgQDrUqkEEDay0UTUfzVz\nWw+st4mjpgNssd8UI8YhumWOn4vG60gBPVPFQ+R29FfY5JwJ9FHMec6z3XYhLPn3\nA3Gcd2X3uQbM1Gj2p9PeUxp39yKVSdUw3RrpBhOsQuntiZTQ8NWagsS6gnMDyXrB\nxxfOsBD24XW3eGI08mtacP111wKBgQDTJciP8i21EOXHXGwHTM0T166w0u0bKd8C\nRy8S6JWnG4p0ySR87T7GGDGYkd3kiQpoRFUrJFh6TefKP0J8ALnAYPjtvkHcgtde\nMWAgmJuPEx3iV/B2h9F9m5d+fyHA7Bz1/eQjmjJaR8WXG8Ls4HS+8OuEGiz9flZD\nEe3woe5L4QKBgGy+dQZAq9Y0aHc+FagqA3NQGVW7aMe45pp68ZsydK3UwpX4sfyI\np4Z4GkJyJYpAEm9zLL2t6Dwr8ePg0d45BC5G6qLwKNlMqviYk4qgopGfbabJSLBc\n7IuUWFD5VvqC4ncvY7YUCe8aSyYL3CNh6nmD2UMM6wYOpmtLPxq7LhVfAoGASIDo\n5cTbPRmYTWTHE5qjsPSW39EN6g3urfGTkIKdIMysNn37MYqly4/zN9iewSLtl/Ae\n7rmESDsIJMKkKcB2CEFEOR7jrryfB5Ec2RSOFgsSb+6Se6EXpnIPCzjMdlqddzq/\nZBpGwAl1J/Y4cO6CKC7CMJJscH85T76QXdi84wECgYBrXDRCfg4x586u0EWilWYV\n6qCgsijgg2neeSbMznGNqWbITSoGy67sAgv1vzcTQ2xyKSgSCCyA3OYm+xsj86Qi\nkaN3p3F8pGkn96La+RP6J3cRsm5gTWYRPmoU7DksHFHvQaadcNkTn+c1nI8bOjhx\n8GIIBLIStg8qSmk/qmUUOw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ajavadovsp@molten-album-264510.iam.gserviceaccount.com",
+  "client_id": "105061947527793863334",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ajavadovsp%40molten-album-264510.iam.gserviceaccount.com"
+}
