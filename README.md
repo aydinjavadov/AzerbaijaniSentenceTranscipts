@@ -7,3 +7,5 @@ This variable only applies to your current shell session, so if you open a new s
 
 With command prompt:
 set GOOGLE_APPLICATION_CREDENTIALS=[PATH]
+
+Link for the files will be here soon.
