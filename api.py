@@ -21,15 +21,12 @@ client = speech.SpeechClient()
 
 # The name of the audio file to transcribe
 for videovalue in os.listdir(r'results'):
-    if videovalue != 'p82JFhTWEVc' or videovalue != 'BM_tAJL-228':
-        continue
-    
-    txtfile=open(r"results\{0}\{0}.txt".format('b5Gugn4iGzs'),"a+",encoding='utf-8')
-    for audio in os.listdir(r'results'+'\\'+'b5Gugn4iGzs'):
+    txtfile=open(r"results\{0}\{0}.txt".format(videovalue),"a+",encoding='utf-8')
+    for audio in os.listdir(r'results'+'\\'+videovalue):
         
         if (audio[-4:]=='.wav'):
             auid = audio
-            with io.open(r'results'+'\\'+ 'b5Gugn4iGzs' +'\\'+audio, 'rb') as audio_file:
+            with io.open(r'results'+'\\'+ videovalue +'\\'+audio, 'rb') as audio_file:
                 content = audio_file.read()
                 audio = types.RecognitionAudio(content=content)
         
