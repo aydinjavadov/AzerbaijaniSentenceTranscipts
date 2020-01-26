@@ -12,8 +12,7 @@ from google.cloud import speech
 from google.cloud.speech import enums
 from google.cloud.speech import types
 
-#setting credentials
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"]=r"C:\Users\ajava\OneDrive\Desktop\ATL\Data Collection\fullyDynamicYoutube\MyFirstProject-6946f52b5b92.json"
+
 
 # Instantiating a client
 client = speech.SpeechClient()
