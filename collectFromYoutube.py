@@ -8,7 +8,7 @@ import os
 from pytube import YouTube
 from pydub import AudioSegment
 from pydub.silence import split_on_silence
-#api key: AIzaSyANRelFeisrDU7Qa93vOnPHFabtpmfuDcc
+
 
 
 #link = input("Enter the youtube link: ") 
