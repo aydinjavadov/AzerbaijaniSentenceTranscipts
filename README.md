@@ -8,4 +8,4 @@ This variable only applies to your current shell session, so if you open a new s
 With command prompt:
 set GOOGLE_APPLICATION_CREDENTIALS=[PATH]
 
-Link for the files will be here soon.
+Link for the files : https://drive.google.com/drive/folders/15uJ0wpsYPHnQJbEwZcf_JrqD3DW-T0Zx?usp=sharing
