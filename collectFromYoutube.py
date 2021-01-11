@@ -151,24 +151,4 @@ convertToVoice(r"mp4s\{0}\{1}.mp4".format(videoValue,movieName_noExtension),"mp4
 splitToPieces(r'voiceOnly\{0}\{1}.wav'.format(videoValue,movieName_noExtension),500,-34,500,-20.0,16000)
     
 
-#WRZQURSfhJ4 - 525,-38,500,-20.0,16000
-#umyzevTLmxo - 525,-38,500,-20.0,16000
-#pS0bf6vHQNo - 525,-38,500,-20.0,16000
-#-8r_-8P0kpg - 525,-38,500,-20.0,16000
-#KR_qy7qD99s - 525,-38,500,-20.0,16000
-#Ik8zhfQsnTA - 525,-38,500,-20.0,16000
-#p82JFhTWEVc - 500,-31,500,-20.0,16000
-#Gch--PTrlac - 490,-34,500,-20.0,16000
-#E6khV-Qjs5E - 525,-38,500,-20.0,16000
-#E1ssnOUya3E - 505,-38,500,-20.0,16000
-#dS7qKsz5Y54 - 480,-33,500,-20.0,16000
-#7UlZVIlc1-k - 510,-34,500,-20.0,16000 
-#BM_tAJL-228 - 500,-31,500,-20.0,16000
-#5Sq-IwxmLd8 - 525,-42,500,-20.0,16000
-#ZUEnMj3WSNg - 535,-40,500,-20.0,16000
-#IlgoMaJjiJ0 - 505,-32,500,-20.0,16000
-#5FQeHLnQjm8 - 492,-30,500,-20.0,16000
-#Nptm0ziJvNw - 505,-32,500,-20.0,16000
-#nfnws4L_rf0 - 490,-26,500,-20.0,16000
-#b5Gugn4iGzs - 500,-34,500,-20.0,16000
-#un500tl6Yec - 500,-34,500,-20.0,16000
+
